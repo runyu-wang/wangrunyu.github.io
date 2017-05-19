@@ -1,0 +1,140 @@
+@charset "GB2312";
+
+.tl{
+	width: 100%;
+	height: 100%;
+	/*	padding: 10px;*/
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	font-size: 40px;
+	text-align: left;
+	border-top-width: 66px;
+	padding-top: 55px;
+	padding-right: 0px;
+	padding-left: 68px;
+}
+
+.gb{
+	wigth: 100px;
+	float: right;
+	text-align: right;
+	margin-top: 55px;
+	margin-right: 10px;
+	color: #FDCF27;
+	width: 500px;
+}
+.gg{
+	height: 300px;
+	width: 300px;
+	background-color: rgba(0,0,0,0.00);
+	border: none;
+}
+.vv3{
+	background-image: url(../img/chenguo.jpg);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+.vv2{
+	background-image: url(../img/meizhou.jpg);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+.vv{
+	background-image: url(../img/shouye.jpg);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+.button{
+	display: inline-block;
+	cursor: pointer;
+	font-size: 16px;
+	color: #FFFFFF;
+	background-color: hsla(0,0%,0%,0.00);
+	border-width: 0px;
+	height: 30px;
+}
+.button span{
+	cursor: pointer;
+	display: inline-block;
+	position: relative;
+	color: #FFFFFF;
+	padding-top: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
+	height: 30px;
+}
+.button span: after {
+	content: '^';
+	position: absolute;
+	opacity: 0;
+	top:0;
+	right:0px;
+	transform: 0s;
+}
+.button:hover span{
+	color: #FEB334;
+	border-left: #FFFFFF;
+	border-right: #FFFFFF;
+	border-top: #FFFFFF;
+	background-color: #FFFFFF;
+	border-radius: 25px;
+	background: #FFFFFF;
+	height: 20px;
+	padding-top: 4px;
+	margin-top: 1px;
+	padding-bottom: 4px;
+	padding-left: px;
+	padding-right: px;
+}
+.button:hover span:after{
+	opacity: 0;
+	right: 0;
+}
+.di{
+	height: 119px;
+	width: 1000px;
+	margin-top: 433px;
+	background-color: #000000;
+	padding-top: 5px;
+	margin-left: -11px;
+}
+
+.dilan{
+	height: 151px;
+	margin-top: 578px;
+	margin-left: 28px;
+	width: 20%;
+	text-align: left;
+}
+.zuo{
+	width: 114px;
+	margin-left: 20px;
+}
+.you{
+	width : 494px;
+	float: right;
+	margin-top: 18px;
+	margin-left: 57px;
+}
+.dilan{
+	margin-left: 548px;
+	margin-top: 578px;
+}
+.huaduo{
+	weith:200px;
+	top:auto;
+	
+}
+.duo{
+	margin-top: 584px;
+}
+.wenzi{
+	weight:200px;
+	
+}
+.dilana{
+	weight: 300px;
+}

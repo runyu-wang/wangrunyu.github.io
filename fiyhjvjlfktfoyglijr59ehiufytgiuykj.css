@@ -29,19 +29,19 @@
 	border: none;
 }
 .vv3{
-	background-image: url(../img/chenguo.jpg);
+	background-image: url(img/chenguo.jpg);
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	text-align: center;
 }
 .vv2{
-	background-image: url(../img/meizhou.jpg);
+	background-image: url(img/meizhou.jpg);
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	text-align: center;
 }
 .vv{
-	background-image: url(../img/shouye.jpg);
+	background-image: url(img/shouye.jpg);
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	text-align: center;

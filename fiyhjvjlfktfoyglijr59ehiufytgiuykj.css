@@ -39,7 +39,6 @@
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	text-align: center;
-	margin-left: 17px;
 }
 .vv{
 	background-image: url(img/shouye.jpg);
@@ -111,20 +110,18 @@
 	text-align: left;
 }
 .zuo{
-	width: 0px;
-	margin-left: 79px;
-	margin-top: 20px;
+	width: 114px;
+	margin-left: 20px;
 }
 .you{
-	width : 116px;
+	width : 494px;
 	float: right;
-	margin-top: 39px;
+	margin-top: 18px;
 	margin-left: 57px;
 }
 .dilan{
 	margin-left: 548px;
-	margin-top: 424px;
-	width: 346px;
+	margin-top: 578px;
 }
 .huaduo{
 	weith:200px;
@@ -140,9 +137,4 @@
 }
 .dilana{
 	weight: 300px;
-}
-.di1{
-	background-image: url(img/gongzuo.png);
-	width: 1000px;
-	height: 1471px;
 }

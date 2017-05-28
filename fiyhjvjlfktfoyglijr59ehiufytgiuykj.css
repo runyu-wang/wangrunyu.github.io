@@ -33,6 +33,7 @@
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	text-align: center;
+	margin-top: 0px;
 }
 .vv2{
 	background-image: url(img/meizhou.jpg);
@@ -120,8 +121,7 @@
 	margin-left: 57px;
 }
 .dilan{
-	margin-left: 548px;
-	margin-top: 578px;
+	margin-top: 65px;
 }
 .huaduo{
 	weith:200px;
@@ -137,4 +137,5 @@
 }
 .dilana{
 	weight: 300px;
+	margin-top: 572px;
 }
